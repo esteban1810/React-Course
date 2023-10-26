@@ -1,5 +1,8 @@
 # Episode 2: JSX, Components, Props
 
+## What is a component in react?
+A component its part of the view that you can reuse as many times as you need. Components help you avoid writing the same code repeatedly with minor differences.
+
 ## What is JSX?
 JSX is a tool that allows to work with Javascript and HTML, in the same file. It enables you to create components and manage their logic in an easy way.
 
